@@ -1,4 +1,4 @@
-# 🤖 Covid-Statistics Discord Bot 
-Covid statistics is a discord bot that provides you information about COVID-19 and helps you in tracking the Covid-19  Cases of a particular country, continent or worldwide cases.
+# 🤖 Covid Statistics Discord Bot 
+Covid Statistics provides you with Information about Covid-19 and helps you in Tracking the Covid-19 Cases of a particular Country, USA State, Continent or Worldwide Cases.
 
 Invite: http://dsc.gg/covidstats
